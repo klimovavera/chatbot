@@ -12,4 +12,4 @@
 ## Установка
 
 1. Склонируйте репозиторий:
-   git clone https://github.com/exeexexe/chatbot1
+   git clone https://github.com/klimovavera/chatbot
